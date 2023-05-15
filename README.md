@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jon Tanner Nelson</h1>
-<h3 align="center">Recent Graduate of Data Science with a concentration in Bioinformatics and Genomics</h3>
+<h3 align="center">Recent Temple University Graduate of Data Science with a concentration in Bioinformatics and Genomics</h3>
 
 - 🔭 I’m currently working on **Corn Kernel Image Classification**
 
