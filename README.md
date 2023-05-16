@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Jon Tanner Nelson</h1>
 <h3 align="center">Recent Temple University Graduate of Data Science with a concentration in Bioinformatics and Genomics</h3>
 
-- 🔭 I’m currently working on **Corn Kernel Image Classification**
+- 🔭 I’m currently working on Corn Kernel Image Classification
 
-- 🌱 I’m currently learning **... fill in**
+- 🌱 I’m currently learning Machine Learning Image Classification using Python primarily as well as material related to Arbitrage Sports betting as a side hobby project. 
 
 - 👨‍💻 See my work here: [... list of github repos..](... list of github repos..)
 
-- 📫 How to reach me **jon.tanner.nelson@gmail.com**
+- 📫 How to reach me **jon.tanner.nelson@gmail.com**, or on LinkedIn 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
