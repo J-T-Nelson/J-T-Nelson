@@ -1,13 +1,17 @@
 <h1 align="center">Hello 👋, I'm Jon Tanner Nelson</h1>
 <h3 align="center">Recent Temple University Graduate of Data Science with a concentration in Bioinformatics and Genomics</h3>
 
-- 🔭 I’m currently working on Corn Kernel Image Classification
+- 🔭 I’m currently working on applying to jobs, studying image classification further, and a few nascent side hobby projects.
 
-- 🌱 I’m currently learning Machine Learning Image Classification using Python primarily as well as material related to Arbitrage Sports betting as a side hobby project. 
+- 🌱 I’m currently learning Machine Learning Image Classification using Python primarily as well as material related to Arbitrage Sports betting as a side hobby project.
 
-- 👨‍💻 See my work here: [... list of github repos..](... list of github repos..)
+- 👨‍💻 See my work here or below in my pinned GitHub repositories: 
+    -  [R Package](https://github.com/J-T-Nelson/GWASpops.pheno2geno)
+    -  [Bioinformatics Data Analysis](https://github.com/J-T-Nelson/Final_report_GWAS_1000Genomes_analysis)
+    -  [Image Classification with Machine Learning](https://github.com/J-T-Nelson/PoDS_Final)
+    -  [Java Coursework](https://github.com/J-T-Nelson/Java_code_TempleU) 
 
-- 📫 How to reach me **jon.tanner.nelson@gmail.com**, or on LinkedIn 
+- 📫 How to reach me **jon.tanner.nelson@gmail.com**, or on [LinkedIn](https://www.linkedin.com/in/jon-tanner-nelson/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
