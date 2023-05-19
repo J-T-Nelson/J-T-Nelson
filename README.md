@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on applying to jobs, studying image classification further, and a few nascent side hobby projects.
 
-- 🌱 I’m currently learning Machine Learning Image Classification using Python primarily as well as material related to Arbitrage Sports betting as a side hobby project.
+- 🌱 I’m currently learning Machine Learning Image Classification using Python primarily.
 
 - 👨‍💻 See my work here or below in my pinned GitHub repositories: 
     -  [R Package](https://github.com/J-T-Nelson/GWASpops.pheno2geno)
