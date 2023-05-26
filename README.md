@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Jon Tanner Nelson</h1>
 <h3 align="center">Recent Temple University Graduate of Data Science with a concentration in Bioinformatics and Genomics</h3>
 
-- 🔭 I’m currently working on applying to jobs, studying image classification further, and a few nascent side hobby projects.
+- 🔭 I’m currently working on applying to jobs, studying image classification further, and a few small portfolio projects. 
 
-- 🌱 I’m currently learning Machine Learning Image Classification using Python primarily.
+- 🌱 I’m currently learning Machine Learning Image Classification using Python, PostgreSQL, Tableau, and data analytics generally. 
 
 - 👨‍💻 See my work here or below in my pinned GitHub repositories: 
     -  [R Package](https://github.com/J-T-Nelson/GWASpops.pheno2geno)
