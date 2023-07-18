@@ -8,6 +8,7 @@
 - 👨‍💻 See my work here or below in my pinned GitHub repositories: 
     -  [R Package](https://github.com/J-T-Nelson/GWASpops.pheno2geno)
     -  [Bioinformatics Data Analysis](https://github.com/J-T-Nelson/Final_report_GWAS_1000Genomes_analysis)
+    -  [Video Game Market Analysis in Tableau](https://public.tableau.com/app/profile/jon.nelson3747/viz/VideoGameMarketAnalysis_16896274070350/BroadInsightsintotheVideoGameIndustry)
     -  [Image Classification with Machine Learning](https://github.com/J-T-Nelson/PoDS_Final)
     -  [Java Coursework](https://github.com/J-T-Nelson/Java_code_TempleU) 
 
