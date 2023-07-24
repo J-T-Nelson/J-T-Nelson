@@ -6,12 +6,13 @@
 - 🌱 I’m currently learning Machine Learning Image Classification using Python, PostgreSQL, Tableau, and data analytics generally. 
 
 - 👨‍💻 See my work here or below in my pinned GitHub repositories: 
-    -  [R Package](https://github.com/J-T-Nelson/GWASpops.pheno2geno)
-    -  [Bioinformatics Data Analysis](https://github.com/J-T-Nelson/Final_report_GWAS_1000Genomes_analysis)
-    -  [Video Game Market Analysis Interactive Slide Deck in Tableau](https://public.tableau.com/app/profile/jon.nelson3747/viz/VideoGameMarketAnalysis_16896274070350/BroadInsightsintotheVideoGameIndustry)
-        - [Video Game Market Analysis - Oversight Dashboard](https://public.tableau.com/app/profile/jon.nelson3747/viz/VideoGameMarketAnalysis-OversightDashboard_16897101170220/ExecutiveDash#1)
-    -  [Image Classification with Machine Learning](https://github.com/J-T-Nelson/PoDS_Final)
-    -  [Java Coursework](https://github.com/J-T-Nelson/Java_code_TempleU) 
+    -  [R Package](https://github.com/J-T-Nelson/GWASpops.pheno2geno) <img src="https://cran.r-project.org/Rlogo.svg" alt="R" width="20" height="20"/>
+    -  [Bioinformatics Data Analysis](https://github.com/J-T-Nelson/Final_report_GWAS_1000Genomes_analysis)  <img src="https://cran.r-project.org/Rlogo.svg" alt="R" width="20" height="20"/>
+    -  [Video Game Market Analysis Interactive Slide Deck in Tableau](https://public.tableau.com/app/profile/jon.nelson3747/viz/VideoGameMarketAnalysis_16896274070350/BroadInsightsintotheVideoGameIndustry) <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="20" height="20"/>
+        - [Video Game Market Analysis - Oversight Dashboard](https://public.tableau.com/app/profile/jon.nelson3747/viz/VideoGameMarketAnalysis-OversightDashboard_16897101170220/ExecutiveDash#1) <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="20" height="20"/>
+    -  [Image Classification with Machine Learning](https://github.com/J-T-Nelson/PoDS_Final) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="20" height="20"/>
+    -  [Java Coursework](https://github.com/J-T-Nelson/Java_code_TempleU) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
+    -  [PostgreSQL Practice](https://github.com/J-T-Nelson/PostgreSQL_code/tree/master) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="20" height="20"/>
 
 - 📫 How to reach me **jon.tanner.nelson@gmail.com**, or on [LinkedIn](https://www.linkedin.com/in/jon-tanner-nelson/) 
 
@@ -29,6 +30,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cran.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/> </a>
+  <a href="https://public.tableau.com/app/discover"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="40" height="40"/> </a>
 </p>
 
 <!--
